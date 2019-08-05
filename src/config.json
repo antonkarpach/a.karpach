@@ -1,0 +1,30 @@
+{
+  "mysql": {
+    "username": "root",
+    "password": "password",
+    "database": "itransition",
+    "dialect": "mysql",
+    "operatorsAliases": false,
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "acquire": 30000,
+      "idle": 10000
+    }
+  },
+  "session": {
+    "secret": "secret",
+    "key": "key",
+    "cookie": {
+      "path": "/",
+      "maxAge": null
+    }
+  },
+  "vk": {
+    "apiId": 6768905
+  },
+  "fb": {
+    "appId": 2352445428162873,
+    "version": "v3.2"
+  }
+}
