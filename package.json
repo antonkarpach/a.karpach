@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "express-session": "^1.15.6",
     "history": "latest",
     "markdown": "^0.5.0",
